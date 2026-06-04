@@ -485,7 +485,7 @@ class SpringboardPlugin implements Plugin<Project> {
 			["org.entcore~infra", "entCoreVersion", "edificeio/entcore"],
 			["org.entcore~app-registry", "entCoreVersion", "edificeio/entcore"],
 			["org.entcore~audience", "entCoreVersion", "edificeio/entcore"],
-			["org.entcore~session", "entCoreVersion", "edificeio/entcore"],
+			["org.entcore~session", "entCoreLibsVersion", "edificeio/entcore"],
 			["org.entcore~auth", "entCoreVersion", "edificeio/entcore"],
 			["org.entcore~directory", "entCoreVersion", "edificeio/entcore"],
 			["org.entcore~workspace", "entCoreVersion", "edificeio/entcore"],
@@ -494,7 +494,7 @@ class SpringboardPlugin implements Plugin<Project> {
 			["org.entcore~conversation", "entCoreVersion", "edificeio/entcore"],
 			["org.entcore~feeder", "entCoreVersion", "edificeio/entcore"],
 			["org.entcore~timeline", "entCoreVersion", "edificeio/entcore"],
-			["org.entcore~broker", "entCoreVersion", "edificeio/entcore"],
+			["org.entcore~broker", "entCoreLibsVersion", "edificeio/entcore"],
 			["org.entcore~cas", "entCoreVersion", "edificeio/entcore"],
 			["org.entcore~archive", "entCoreVersion", "edificeio/entcore"],
 			["org.entcore~admin", "entCoreVersion", "edificeio/entcore"]
